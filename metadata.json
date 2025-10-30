@@ -1,0 +1,5 @@
+{
+  "name": "Gestion d'Absentéisme CDS",
+  "description": "Une application pour la gestion de l'absentéisme des participants aux cours du soir. Elle permet d'importer des listes de participants et de saisir les absences par semaine.",
+  "requestFramePermissions": []
+}
