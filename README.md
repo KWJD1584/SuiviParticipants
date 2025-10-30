@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -18,3 +19,19 @@ View your app in AI Studio: https://ai.studio/apps/drive/1FI501OdP76DYZDldtSmLug
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+=======
+# SuiviParticipants
+
+**SuiviParticipants** est une application web React conçue pour faciliter la gestion des participants. Elle permet de suivre efficacement les **absences** ainsi que les **paiements effectués**, offrant un tableau de bord clair et intuitif pour un suivi en temps réel.
+
+## Fonctionnalités
+- Suivi des absences des participants  
+- Gestion des paiements effectués  
+- Interface claire et intuitive  
+- Tableau de bord en temps réel
+
+## Technologies utilisées
+- React (via Vite)  
+- HTML / CSS / JavaScript  
+- GitHub Pages pour le déploiement
+>>>>>>> 10d0abdb4a187d7d95da9d2447daa8b527656084
